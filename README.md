@@ -30,4 +30,4 @@ Estoy trabajando en nuevos proyectos que combinen estas pasiones. ¡Pronto verá
 
 ## 📫 ¿Conectamos?
 
-* 💼 **LinkedIn:** [Conéctame en LinkedIn](https://www.linkedin.com/in/TU-USUARIO-AQUI) * 📄 **Portafolio:** [Puedes ver mi portafolio HTML aquí](https://breif7.github.io/html-portafolio/)
+* 💼 **LinkedIn:** [Conéctame en LinkedIn](https://www.linkedin.com/in/miguel-martinez-ortega/) * 📄 **Portafolio:** [Puedes ver mi portafolio HTML aquí](https://breif7.github.io/html-portafolio/)
