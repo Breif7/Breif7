@@ -11,6 +11,7 @@ Construyo sistemas serverless completos en AWS —de la infraestructura al dashb
 - **Automatización de contenido**: pipeline en Python que genera video (Blender), clona voz (TTS) y pasa guiones por QA con IA antes de publicar. Paralelizando el render por sharding de frames bajé el tiempo de un episodio largo de ~2h51min a ~1h55min.
 - **LifeOS**: mi propio "sistema operativo personal" — motor en Python con 300+ pruebas automatizadas, sincronización de finanzas con Google Sheets y un asistente local (Ollama) para registrar hábitos y gastos por texto.
 - **SIG/GIS**: tesis de maestría en análisis espacial municipal con QGIS — entrega completa con geopackage, mapas y resultados.
+- **Maestría en IA (UNIR, en curso)** — [portafolio aplicado](https://github.com/Breif7/maestria-ia-portfolio): lo de cada materia llevado a mis proyectos y medido contra una línea base. Un estimador de horas de impresión 3D (ridge, leave-one-out) baja el error de 0.62 h a 0.16 h; detección de gastos anómalos con Isolation Forest; clasificador Naive Bayes de recibos que aprende de cada usuario; evaluación de recuperación (BM25 vs embeddings) para un asistente RAG.
 
 ## 🛠️ Stack
 
@@ -19,11 +20,12 @@ Construyo sistemas serverless completos en AWS —de la infraestructura al dashb
 | **Cloud / IaC** | AWS (Lambda, DynamoDB, API Gateway, Cognito, CloudFront, S3, IAM, GuardDuty) · Terraform · Amplify · CDK · SAM |
 | **Backend** | Python, Node.js / TypeScript |
 | **Frontend** | Next.js, React |
+| **ML / IA** | scikit-learn, pandas, NumPy, NLTK, Ollama (LLM local), Claude API, embeddings + RAG |
 | **Otros** | Blender (automatización vía script), QGIS, Docker |
 
 ## 🌱 En qué estoy ahora
 
-Expandiendo el catálogo de sistemas serverless en AWS y automatizando más del pipeline de contenido con IA.
+Cursando la Maestría en IA y aplicando cada materia a mis proyectos; expandiendo el catálogo de sistemas serverless en AWS y automatizando más del pipeline de contenido con IA.
 
 ## 📫 ¿Conectamos?
 
